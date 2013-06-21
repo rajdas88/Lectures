@@ -32,5 +32,5 @@ There are 3 arguments:
 </ol>
 
 <code>
-python CourseraScraper.py datasci-001 C:\\Users\\rajd\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\r8gk2ms5.default C:\\Users\\rajd\\Downloads\\Lectures
+python CourseraScraper.py datasci-001 .\Firefox\\Profiles\\r8gk2ms5.default .\Downloads\\Lectures
 </code>
