@@ -11,7 +11,7 @@ This code runs using Python 2.7 along with:
 <li>Selenium</li>
 </ul>
 
-**Finnicky assumptions:** <br />
+**Assumptions:** <br />
 Assume profile already contains log-in information and auto-download for *pdf* and *mp4*.<br />
 For more information, check http://support.mozilla.org/en-US/kb/change-firefox-behavior-when-open-file.<br />
 
