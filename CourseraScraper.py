@@ -14,7 +14,7 @@ if __name__ == '__main__':
         BeatifulSoup
         Selenium
     
-    Assume profile already contains log-in info & aut0-download for pdf & mp4
+    Assume profile already contains log-in info & auto-download for pdf & mp4
     In firefox, Tools -> Options -> Applications set to save file automatically
     Args:
     1. Class name
