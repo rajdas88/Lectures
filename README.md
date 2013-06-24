@@ -1,7 +1,7 @@
 Lectures
 ========
 
-Allows for automatic download of *pdf* and *mp4* from course page
+Allows for automatic download of *pdf* and *mp4* files from course page
 
 Setup
 =====
